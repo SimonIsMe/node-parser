@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Szymon\NodeParser\NodeJsonParser;
 
-use App\Service\NodeJsonParser\Node\Node;
-use App\Service\NodeJsonParser\Node\TextNode;
+use Szymon\NodeParser\NodeJsonParser\Node\Node;
+use Szymon\NodeParser\NodeJsonParser\Node\TextNode;
 
 class NodesToJsonConverter
 {
